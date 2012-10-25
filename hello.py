@@ -1,5 +1,5 @@
 print "Hello world!"
-print 'Most elszamolok tizig!'
-for i in range(1,11):
+print 'Most elszamolok tizenegyig!'
+for i in range(1,12):
 	print i
 raw_input()
