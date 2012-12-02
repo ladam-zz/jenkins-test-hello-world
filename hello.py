@@ -1,4 +1,4 @@
-
+#komment
 print u'Most elszamolok egytol tizenharomig!'
 osszeg = 0
 for i in range(1,14):
